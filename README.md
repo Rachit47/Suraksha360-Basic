@@ -1,5 +1,5 @@
 ### Suraksha360: Anonymous Incident Reporting Web Application with AI Assistance
-#### Suraksha360 is a powerful web application designed for secure and anonymous reporting of emergencies and non-emergencies. Built with Next.js for a seamless user experience, it integrates Gemini AI to analyze uploaded images and auto-fill report details. The system classifies incidents into categories like:
+#### Suraksha360 is a powerful fully responsive web application designed for secure and anonymous reporting of emergencies and non-emergencies. Built with Next.js for a seamless user experience, it integrates Gemini AI to analyze uploaded images and auto-fill report details. The system classifies incidents into categories like:
 - #### Burglary
 - #### Fire Hazard
 - #### Urgent Medical Situation
